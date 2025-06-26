@@ -1,0 +1,15 @@
+# Ignorar archivos de registro
+data/
+embeddings/
+
+
+# Ignorar directorios de dependencias (ej. Node.js, Python)
+app/__pycache__/
+
+# Ignorar archivos de configuración específicos de la máquina
+.env
+.vscode/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
